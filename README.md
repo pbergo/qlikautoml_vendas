@@ -58,7 +58,7 @@ Ela disponibilizou sua base de dados para suas análises e elaboração de um mo
 
 O modelo do banco de dados está apresentado a seguir.
 
-![Modelo de Dados](derbasedados.png)
+![Modelo de Dados](derbasevendasods.png)
 
 ##### Base de dados Vendas - MySQL
 
