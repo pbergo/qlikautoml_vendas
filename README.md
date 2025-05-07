@@ -58,7 +58,7 @@ Ela disponibilizou sua base de dados para suas análises e elaboração de um mo
 
 O modelo do banco de dados está apresentado a seguir.
 
-![Modelo de Dados](derbasevendasods.png)
+![Modelo de Dados](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/derbasevendasods.png)
 
 ##### Base de dados Vendas - MySQL
 
