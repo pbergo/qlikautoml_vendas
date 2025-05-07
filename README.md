@@ -33,27 +33,27 @@ Esse documento foi criado como desafio para uso do [Qlik AutoML](https://www.qli
 
 A COM.ROUPAS é mundialmente conhecida pelo design inovador, qualidade de seus produtos e garantia de entrega. Seus produtos e sua marca alcançam diretamente 9 países e sua presença é conhecida em 83 importantes cidades no Brasil e mundo. 
 
-O seu modelo de negócio é baseado em dois pilares: Preços fixos e prazo de entrega de 7 dias.
+O seu modelo de negócio é baseado em dois pilares: Preços Fixos e Prazo de Entrega de 7 dias.
 
-Essa estratégia permitiu forte expansão a partir de 2019, usando um inovador modelo de venda, entrega e forte atendimento aos clientes e publico consumidor, a empresa mantem-se à frente da concorrência e é caso de sucesso internacional.
+Essa estratégia permitiu forte expansão a partir de 2019, usando um inovador modelo de venda, entrega e forte atendimento aos clientes e público consumidor, mantendo-se à frente da concorrência e sendo caso de sucesso internacional.
 
-Mesmo com toda vantagem adquirida, a empresa enfrenta enormes desafios no seu mercado, com pressão da concorrência, aumento dos custos de fornecedores e dificuldades na logística de entregas. 
+Mesmo com toda a vantagem adquirida, a COM.ROUPAS enfrenta enormes desafios no seu mercado, como enorme pressão da concorrência, aumento dos custos de fornecedores e grandes dificuldades na logística de entregas. 
 
-Em 2025, suas vendas continuam em crescimento, mas a empresa viu recentemente uma redução nas margens de lucro, causadas pelo aumento de custos diretos e também pela operação de distribuição. O cenário conflituoso mundial apresenta um desafio adicional, e a diretoria decidiu investigar a fundo os motivos que causam os problemas nas entregas.
+Em 2025, suas vendas continuam em crescimento, mas a empresa viu recentemente uma redução nas margens de lucro, causadas pelo aumento de custos diretos e também por dificuldades na operação de distribuição. O cenário conflituoso mundial apresenta um desafio adicional, e a diretoria decidiu investigar a fundo os motivos que causam os frequentes problemas nas entregas.
 
-O primeiro ponto a ser investigado é os motivos que causam cancelamento nos Pedidos de Venda da empresa e você e sua equipe serão os responsáveis por entender e apresentar uma solução para isso.
+O primeiro ponto a ser investigado se refere aos motivos que causam cancelamento nos Pedidos de Venda e você e sua equipe serão os responsáveis por entender e apresentar uma solução para reduzir ou eliminar esse problema.
 
 
 ### O Desafio
 
-A empresa deseja identificar em tempo real cada pedido de venda pode ser cancelado ou não. Ela espera que seja possível reverter possíveis cancelamentos ou redirecionar os esforços de programação de e-ntregas para pedidos que sejam cancelados.
+A empresa deseja identificar em tempo real se cada pedido de venda pode ser cancelado ou não. Ela espera que essa abordagem permite reverter possíveis cancelamentos ou redirecionar os esforços de programação de entregas de pedidos que tenham grande risco cancelados, permitindo manter as margens de lucro.
 
-Ela disponibilizou sua base de dados para suas análises e elaboração de um modelo de ML que permita predizer se o pedido será ou não cancelado, além de identificar quais os atributos mais interferem no cancelamento.
+A equipe da COM.ROUPAS disponibilizou a base de dados de vendas para suas análises e elaboração de um modelo de IA/ML que permita predizer se um determinado pedido de venda será ou não cancelado, além de identificar quais os atributos mais interferem no cancelamento.
 
 ### O que se espera
 
 - Saber quais dados impactam no cancelamento de pedidos.
-- Método (API ou outro) que realize previsão de cancelamento em tempo real para cada novo pedido.
+- Prover um método (API ou outro) que possiblite a previsão de cancelamento em tempo real para cada novo pedido.
 
 ### Base de dados
 
