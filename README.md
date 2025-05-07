@@ -15,13 +15,14 @@
 
 ## License
 
-This project is made available under a modified MIT license. See the [LICENSE](LICENSE) file.
+Esse projeto foi feito baseado no licenciamento MIT. Veja detalhes em [LICENSE](LICENSE).
 
-## Disclaimer
+## Termo de Responsabilidade
 
-1. This is **not** a Qlik Supported Project/Product.
-2. Contributions such as Issues, Pull Request and additional codes are welcomed.
-3. **Qlik Inc.** or **Qlik Support** has no affiliation with this project. The initial version was developed by [Pedro Bergo](https://www.linkedin.com/in/cleveranjos/) who is currently employed as Qlik Data Integration Senior Implementation Consultant at Qlik Data Professional Services Team.
+1. Este **não** é um projeto suportado pela Qlik.
+2. Contribuições como Issues, Pull Requests e códigos adicionais são bem vindos.
+3. **Qlik Inc.** ou **Qlik Support** não tem nenhum relacionamento com esse projeto.
+4. A versão inicial foi desenvolvida por [Pedro Bergo](https://www.linkedin.com/in/pedrobergo/), atualmente Qlik Data Integration Senior Implementation Consultant na empresa Qlik, Inc, no time Data Professional Services.
 
 ## Introdução
 
