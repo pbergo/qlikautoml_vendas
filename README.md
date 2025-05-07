@@ -49,6 +49,10 @@ A empresa deseja identificar em tempo real cada pedido de venda pode ser cancela
 
 Ela disponibilizou sua base de dados para suas análises e elaboração de um modelo de ML que permita predizer se o pedido será ou não cancelado, além de identificar quais os atributos mais interferem no cancelamento.
 
+### O que se espera
+
+- Saber quais dados impactam no cancelamento de pedidos.
+- Método (API ou outro) que realize previsão de cancelamento em tempo real para cada novo pedido.
 
 ### Base de dados
 
@@ -56,19 +60,10 @@ O modelo do banco de dados está apresentado a seguir.
 
 ![Modelo de Dados](derbasedados.png)
 
-**Campo alvo**
-- Pedidos.Cancelado
-
 ##### Base de dados Vendas - MySQL
 
-O banco de dados está disponível no repositório docker e pode ser acessado através do comando:
+O banco de dados está disponível no repositório docker e pode ser acessado através dos comandos a seguir para colocar o banco no ar e popular a base de dados.
 
-``` bash
-# Open bash (bash or powerbash)
-docker pull pedrobergo\vendasodsdb
-```
-
-Rode os dois comandos a seguir para colocar o banco no ar e popular a base de dados
 ``` bash
 # Open bash (bash or powerbash)
 docker run --name vendasodsdb -e MYSQL_ROOT_PASSWORD="mysql1234!" -e MYSQL_DATABASE=vendasods -e MYSQL_ROOT_HOST=% -e PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin -v /var/lib/mysql -p 3306:3306 -p 33060:33060 -d pedrobergo/vendasodsdb:latest
@@ -76,16 +71,18 @@ docker container exec -it -e MYSQL_ROOT_PASSWORD="mysql1234!" vendasodsdb sh -c 
 ```
 
 A base VENDASODS no MySQL está disponível através das seguintes credenciais:
-- Conexão: loalhost
+- Conexão: localhost
 - Porta: 3306
 - Usuário: root
 - Senha: mysql1234!
 - Database: vendasods
 
-#### Docker Desktop
+##### Docker Desktop
 
 Recomenda-se utilizar plataforma Docker Desktop para rodar a base MySQL.
 O Docker Desktop pode ser encontrado em https://www.docker.com/products/docker-desktop/
+
+Para rodar o Docker Desktop tem é necessário Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
 
 Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/).
 
