@@ -62,7 +62,7 @@ A equipe da COM.ROUPAS disponibilizou a base de dados de vendas para suas análi
 
 O modelo do banco de dados está apresentado a seguir.
 
-![Docker Terminal](https://github.com/pbergo/qlikautoml_vendas/blob/fe5464e70272bb6dad13aded6d5bea9fe3e05f87/images/derbase.png)
+![Docker Terminal](images/derbase.png)
 
 ##### Docker Desktop
 
@@ -83,7 +83,7 @@ O banco de dados de Vendas está disponível no repositório docker e pode ser a
 - Faça login no Docker Desktop
 - Acesse o Terminal do Docker
 
-![Docker Terminal](https://github.com/pbergo/qlikautoml_vendas/blob/fe5464e70272bb6dad13aded6d5bea9fe3e05f87/images/dockerterminal.png)
+![Docker Terminal](images/dockerterminal.png)
 
 
 2. Baixar e executar a base MySQL
@@ -114,5 +114,5 @@ Após popular a base, os dados estarão disponível no MySQL através das seguin
 
 Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros no seu próprio servidor MySQL versão 8 ou superior.
 
-O dump da base encontra-se no arquivo [vendasods.sql](https://https://github.com/pbergo/qlikautoml_vendas/blob/6780e82d632da2e6b91729cfa7d1c69e51e0ec0f/basedados/vendasods.sql)
+O dump da base encontra-se no arquivo [vendasods.sql](basedados/vendasods.sql)
 
