@@ -10,7 +10,7 @@
 - [O que se espera](#o-que-se-espera)
 - [Base de Dados](#base-de-dados)
     - [Docker Desktop](#docker-desktop)
-    - [Base de Dadas Vendas](#base-de-dados-vendas---mysql)
+    - [Base de Vendas](#base-de-vendas---mysql)
 
 ## License
 
@@ -45,7 +45,7 @@ Em 2025, suas vendas continuam em crescimento, mas a empresa viu recentemente um
 O primeiro ponto a ser investigado se refere aos motivos que causam cancelamento nos Pedidos de Venda e você e sua equipe serão os responsáveis por entender e apresentar uma solução para reduzir ou eliminar esse problema.
 
 
-### O Desafio
+## O Desafio
 
 A empresa deseja identificar em tempo real se cada pedido de venda pode ser cancelado ou não. Ela espera que essa abordagem permite reverter possíveis cancelamentos ou redirecionar os esforços de programação de entregas de pedidos que tenham grande risco cancelados, permitindo manter as margens de lucro.
 
@@ -73,9 +73,9 @@ Nesse link você encontra instruções de [instalação do Docker Desktop em Win
 
 Depois de instalado, você ainda precisará se cadastrar no cloud da Docker a fim de usar o ambiente.
 
-##### Base de dados Vendas - MySQL
+##### Base de Vendas - MySQL
 
-O banco de dados está disponível no repositório docker e pode ser acessado através dos comandos a seguir para colocar o banco no ar e popular a base de dados.
+O banco de dados de Vendas está disponível no repositório docker e pode ser acessado através dos comandos a seguir para colocar o banco no ar e popular a base de dados.
 
 1. Abra o Docker Desktop
 - Faça login no Docker Desktop
