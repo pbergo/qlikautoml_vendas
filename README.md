@@ -22,12 +22,14 @@ Esse projeto foi feito baseado no licenciamento MIT. Veja detalhes em [LICENSE](
 1. Este **não** é um projeto suportado pela Qlik.
 2. Contribuições como Issues, Pull Requests e códigos adicionais são bem vindos.
 3. **Qlik Inc.** ou **Qlik Support** não tem nenhum relacionamento com esse projeto.
+4. Todos os dados aqui apresentados são fictícios e qualquer relação com a realidade é mera coincidência.
 4. A versão inicial foi desenvolvida por [Pedro Bergo](https://www.linkedin.com/in/pedrobergo/), atualmente Qlik Data Integration Senior Implementation Consultant na empresa Qlik, Inc, no time Data Professional Services.
 
 ## Introdução
 
 Esse documento foi criado como desafio para uso do [Qlik AutoML](https://www.qlik.com/us/products/qlik-automl), possibilitando aos interessados entender e aplicar alguns dos recursos da plataforma Qlik Cloud (https://www.qlik.com).
 
+Todos os dados aqui apresentados são fictícios e qualquer relação com a realidade é mera coincidência.
 
 ## Cenário
 
@@ -59,7 +61,7 @@ A equipe da COM.ROUPAS disponibilizou a base de dados de vendas para suas análi
 
 O modelo do banco de dados está apresentado a seguir.
 
-![Modelo de Dados](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/derbasevendasods.png)
+![Modelo de Dados](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/derbase.png)
 
 ##### Base de dados Vendas - MySQL
 
@@ -83,13 +85,14 @@ A base VENDASODS no MySQL está disponível através das seguintes credenciais:
 - Usuário: root
 - Senha: mysql1234!
 - Database: vendasods
+- SSL: Preferred ou Enabled
 
 ##### Docker Desktop
 
 Recomenda-se utilizar plataforma Docker Desktop para rodar a base MySQL.
 O Docker Desktop pode ser encontrado em https://www.docker.com/products/docker-desktop/
 
-Para rodar o Docker Desktop tem é necessário Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
+Para rodar o Docker Desktop é necessário ter Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
 
-Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/).
+Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/), além de detalhamento dos requisitos necessários para instalação.
 
