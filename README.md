@@ -63,17 +63,35 @@ O modelo do banco de dados está apresentado a seguir.
 
 ![Modelo de Dados](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/derbase.png)
 
+##### Docker Desktop
+
+Recomenda-se utilizar plataforma Docker Desktop para rodar a base MySQL.
+O Docker Desktop pode ser encontrado em https://www.docker.com/products/docker-desktop/
+
+Para rodar o Docker Desktop é necessário ter Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
+
+Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/), além de detalhamento dos requisitos necessários para instalação.
+
+Depois de instalado, você ainda precisará se cadastrar no cloud da Docker a fim de usar o ambiente.
+
 ##### Base de dados Vendas - MySQL
 
 O banco de dados está disponível no repositório docker e pode ser acessado através dos comandos a seguir para colocar o banco no ar e popular a base de dados.
 
-1. Baixar e executar a base MySQL
+1. Abra o Docker Desktop
+- Faça login no Docker Desktop
+- Acesse o Terminal do Docker
+![Docker Terminal](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/dockerterminal.png)
+
+
+2. Baixar e executar a base MySQL
+
 ``` bash
 # Open bash (bash or powerbash)
 docker run --name vendasodsdb -e MYSQL_ROOT_PASSWORD="mysql1234!" -e MYSQL_DATABASE=vendasods -e MYSQL_ROOT_HOST=% -e PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin -v /var/lib/mysql -p 3306:3306 -p 33060:33060 -d pedrobergo/vendasodsdb:latest
 ```
 
-2. Popular a base de dados VENDASODS
+3. Popular a base de dados VENDASODS
 ``` bash
 # Senha é mysql1234!
 docker container exec -it -e MYSQL_ROOT_PASSWORD="mysql1234!" vendasodsdb sh -c "mysql -u root -p vendasods < /tmp/vendasods.sql"
@@ -86,13 +104,4 @@ A base VENDASODS no MySQL está disponível através das seguintes credenciais:
 - Senha: mysql1234!
 - Database: vendasods
 - SSL: Preferred ou Enabled
-
-##### Docker Desktop
-
-Recomenda-se utilizar plataforma Docker Desktop para rodar a base MySQL.
-O Docker Desktop pode ser encontrado em https://www.docker.com/products/docker-desktop/
-
-Para rodar o Docker Desktop é necessário ter Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
-
-Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/), além de detalhamento dos requisitos necessários para instalação.
 
