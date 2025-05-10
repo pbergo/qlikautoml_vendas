@@ -73,7 +73,7 @@ Nesse link você encontra instruções de [instalação do Docker Desktop em Win
 
 Depois de instalado, você ainda precisará se cadastrar no cloud da Docker a fim de usar o ambiente.
 
-##### Base de Vendas - MySQL
+##### Executando MySQL em Docker
 
 O banco de dados de Vendas está disponível no repositório docker e pode ser acessado através dos comandos a seguir para colocar o banco no ar e popular a base de dados.
 
@@ -97,11 +97,20 @@ docker run --name vendasodsdb -e MYSQL_ROOT_PASSWORD="mysql1234!" -e MYSQL_DATAB
 docker container exec -it -e MYSQL_ROOT_PASSWORD="mysql1234!" vendasodsdb sh -c "mysql -u root -p vendasods < /tmp/vendasods.sql"
 ```
 
-A base VENDASODS no MySQL está disponível através das seguintes credenciais:
+4. Acessando a base
+
+Após popular a base, os dados estarão disponível no MySQL através das seguintes credenciais:
 - Conexão: localhost
 - Porta: 3306
 - Usuário: root
 - Senha: mysql1234!
 - Database: vendasods
 - SSL: Preferred ou Enabled
+
+
+##### MySQL Database Server
+
+Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros em um servidor MySQL v.8 ou maior.
+
+O dump da base encontra-se no arquivo [vendasods.sql](https://https://github.com/pbergo/qlikautoml_vendas/blob/6780e82d632da2e6b91729cfa7d1c69e51e0ec0f/basedados/vendasods.sql)
 
