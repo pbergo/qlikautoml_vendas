@@ -81,8 +81,7 @@ O banco de dados está disponível no repositório docker e pode ser acessado at
 1. Abra o Docker Desktop
 - Faça login no Docker Desktop
 - Acesse o Terminal do Docker
-![Docker Terminal](https://github.com/pbergo/qlikautoml_vendas/blob/bebb0f819e165e551b18a0ffa35d498b2b8b3b81/images/dockerterminal.png)
-
+![Docker Terminal](https://github.com/pbergo/qlikautoml_vendas/blob/fe5464e70272bb6dad13aded6d5bea9fe3e05f87/images/derbase.png)
 
 2. Baixar e executar a base MySQL
 
