@@ -10,7 +10,9 @@
 - [O que se espera](#o-que-se-espera)
 - [Base de Dados](#base-de-dados)
     - [Docker Desktop](#docker-desktop)
-    - [Base de Vendas](#base-de-vendas---mysql)
+    - [Executando MySQL em Docker](#executando-mysql-em-docker)
+    - [MySQL Database Server](#mysql-database-server)
+
 
 ## License
 
@@ -110,7 +112,7 @@ Após popular a base, os dados estarão disponível no MySQL através das seguin
 
 ##### MySQL Database Server
 
-Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros em um servidor MySQL v.8 ou maior.
+Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros no seu próprio servidor MySQL versão 8 ou superior.
 
 O dump da base encontra-se no arquivo [vendasods.sql](https://https://github.com/pbergo/qlikautoml_vendas/blob/6780e82d632da2e6b91729cfa7d1c69e51e0ec0f/basedados/vendasods.sql)
 
