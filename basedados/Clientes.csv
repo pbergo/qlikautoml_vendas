@@ -1,0 +1,501 @@
+"Cliente_ID";"Cliente";"Cliente_Contato";"Telefone";"Cidade_ID"
+1;"Eintrach GS";"Albert von Einstein";"099-0977310";1
+2;"Hockey Town";"Paco el Maco";"(1) 135-5333";2
+3;"Shoe Chateau";"Sancho Panza";"(1) 135-5555";3
+4;"Dr Jims Trousers";"Carl Montgomery";"0711-020361";4
+6;"Man Kleider";"Antonio Esposito";"7675-3425";5
+7;"Menàge à Trois";"Julie Binoché";"(071) 23 67 22 20";6
+9;"La Legion Mercenaire";"Bernard de Gaule";"(02) 201 24 67";7
+11;"Float Boat";"Carlyle Boots";"(5) 552-3745";8
+12;"Douze é Dose";"Seno Duce";;9
+13;"Winter Blues";"Speedy Gonzales";"(5) 555-2933";10
+14;"Fourteen Clothes";"Pit Forsight";;11
+15;"Quinze e etc.";"Seu Quinzin";;12
+16;"The Sharped Dressed Man";"Ian Wright";"089-0877310";13
+17;"Gluderstedt";"Lars von Holstein";"(21) 555-3412";14
+18;"Aujourd´hui";"Pierre Chardin";"(11) 555-7647";15
+19;"Th Fashing";"Greg Thatcher";"0555-09876";16
+20;"Ski Store";"Lars Saalbach";"(21) 555-4252";17
+23;"Champes";"Jaques Wilneuve";"(14) 555-8122";18
+25;"Halle Köln";"Dieter Köln";"(21) 555-0091";19
+26;"Le Sais de Rión";"Jeanne d´Anjou";"(11) 555-9857";15
+27;"Il Pantaloni di la Cammorra";"Don Corleone";"0221-0644327";20
+28;"Red Bull Salzburg World";"Vitor Baiha";"(514) 555-8054";21
+29;"Almost a Cougar";"Mrs. Beaty";;22
+30;"Third percent of Age";"Candice McCarter";;23
+31;"Unlike you want nothing";"Phill Young";;8
+32;"The Corner Store";"Ross The Boss";"(604) 555-3392";22
+36;"Fill the Phill and Phat";;;23
+37;"Stradivarius";"Robert Bolero";"035-640230";24
+38;"King Size Clothes";"Al Yankovic";"0372-035188";25
+39;"Noch Einmal GMBH";"Dieter Rummernige";"981-443655";26
+40;"La Boheme";"Philippe de Laval";"61.77.61.10";27
+41;"Design";"Louise Davu";"78.32.54.86";28
+42;"Fourty Two ";;;29
+44;"Warp AG";"Klaus Deum";"91.24.45.40";30
+45;"Bobby Socks";"Vincent Vega";"(514) 555-8054";23
+46;"Meia Idade";;;31
+47;"Quase nos enta !";;;32
+48;"Too Hot 4U";"Andrea Pamelsson";"(503) 555-9573";33
+49;"La Moda d'il Futuri";"Luca Brassi";"40.32.21.21";34
+50;"Blue Tomato Shop";"Marco Van Deum";"26.47.15.10";35
+53;"Fawtly Towers";"John Cleez";"0241-039123";13
+56;"Casual Clothing";"Herman Schlusse";"40.67.88.88";36
+57;"Tentando ser Sexy ";;;37
+58;"La Moda Pasada";"Francisca Font Barceló";"(5) 555-3932";10
+59;"Extrawagens";"Herbert Bernstorf";"0711-020361";21
+60;"Mammut Sports Group";"Leopoldo Samba";"089-0877310";38
+62;"Roupas e Trajes de Bom Gosto";;;37
+63;"Grunewald";"George Essen";"0621-08460";39
+64;"É nóis Mano !";;;37
+65;"Somos nosostros !";"Artur Piazola";"83-30303982";40
+66;"Sport Shop";"Anna Bella";"0342-023176";41
+67;"Fiquei bem meu bem?";;;9
+68;"Xique no úrtimo !";;;31
+69;"Coast to Coast";;;42
+70;"Cadẽ o trem?";;;43
+71;"Sunny Ski Store";"Perry Farell";"(208) 555-8097";44
+72;"Fast Sunglasses";"Ray Banned";"069-0245984";13
+73;"Cinque Moda";"Preben Elkjaer";"0555-09876";45
+74;"Chateau de Ville";"André Millard";"0221-0644327";46
+75;"Macalena";"Paul Smith";"(503) 555-6874";47
+76;"Sports Direct";"Cheril Cow";"0372-035188";21
+77;"Papuada";;;48
+78;"França & Espanha";;;49
+79;"Boombastic";"Heinz Disco";"0241-039123";50
+80;"Don Balón";"Peloto Gomez";"(5) 552-3745";51
+82;"Bond Ltd";"Mark Stark";"(206) 555-8257";52
+83;"Moda Potiguar";;;53
+84;"Art et Fashion";"Pierre Robert";"035-640230";54
+85;"L’Etranger";"Albert Camus";"033-530220";46
+86;"Autokleider";"Ralf Schumaker";"011-4988260";55
+87;"LD Store";"Miiko Heikillä";"(5) 555-2933";35
+88;"Moda Pampeira";;;56
+89;"Nirvana Stores";"Alice Chain";"(503) 555-7555";57
+90;"s.Oliver Austria Vertriebs GmbH";"Reijoo Haajanen";"(5) 555-3932";58
+91;"McArthurGlen Designer Outlet ";"Boniekk Wallessa";"(5) 552-3745";45
+92;"Sun Cost";;;8
+93;"Moda Minas & Mundo";;;59
+94;"World Clothes";;;11
+100;"Loja de Belém";"Albert von Einstein";"099-0977310";60
+101;"Terra da Garoa";"Paco el Maco";"(1) 135-5333";37
+102;"Castelo dos Sapatos";"Sancho Panza";"(1) 135-5555";61
+103;"Dr Clothes";"Carl Montgomery";"0711-020361";9
+104;"Homem Novo";"Antonio Esposito";"7675-3425";62
+105;"Homenagem aos Três";"Julie Binoché";"(071) 23 67 22 20";63
+106;"A legião ";"Bernard de Gaule";"(02) 201 24 67";63
+107;"Inverno e Verão";"Speedy Gonzales";"(5) 555-2933";9
+108;"O Homem nu";"Ian Wright";"089-0877310";9
+109;"Grude na Pele";"Lars von Holstein";"(21) 555-3412";37
+110;"Hoje em dia";"Pierre Chardin";"(11) 555-7647";37
+111;"Os fashionistas";"Greg Thatcher";"0555-09876";37
+112;"Loja do Ski";"Lars Saalbach";"(21) 555-4252";64
+113;"Campeões";"Jaques Wilneuve";"(14) 555-8122";64
+114;"Olá Mr John";"Dieter Köln";"(21) 555-0091";64
+115;"Os sais de banho";"Jeanne d´Anjou";"(11) 555-9857";65
+116;"A roupa nova do Rei";"Don Corleone";"0221-0644327";65
+117;"Mundo Red Bull";"Vitor Baiha";"(514) 555-8054";66
+118;"A loja da Esquina";"Ross The Boss";"(604) 555-3392";66
+119;"Stradivarius";"Robert Bolero";"035-640230";66
+120;"Roupas Tamanho Família";"Al Yankovic";"0372-035188";62
+121;"Roupas da RMBH";"Dieter Rummernige";"981-443655";67
+122;"A Boêmia";"Philippe de Laval";"61.77.61.10";67
+123;"Wear Desing";"Louise Davu";"78.32.54.86";68
+124;"Sr. Warp";"Klaus Deum";"91.24.45.40";68
+125;"Meias do Bob";"Vincent Vega";"(514) 555-8054";68
+126;"Too Hot 4 RS";"Andrea Pamelsson";"(503) 555-9573";56
+127;"A moda do futuro";"Luca Brassi";"40.32.21.21";56
+128;"Loja Tomates Verdes";"Marco Van Deum";"26.47.15.10";56
+129;"Torres Gêmeas";"John Cleez";"0241-039123";56
+130;"Roupas Casuais";"Herman Schlusse";"40.67.88.88";69
+131;"A moda antiga";"Francisca Font Barceló";"(5) 555-3932";31
+132;"Extravagante";"Herbert Bernstorf";"0711-020361";70
+133;"Grupo Esportes Gerais";"Leopoldo Samba";"089-0877310";70
+134;"Grunalita Roupas";"George Essen";"0621-08460";70
+135;"Roupas Esportivas";"Anna Bella";"0342-023176";71
+136;"Loja do Sol";"Perry Farell";"(208) 555-8097";71
+137;"Oticas Rápidas";"Ray Banned";"069-0245984";72
+138;"Moda Cinco e Cinquenta";"Preben Elkjaer";"0555-09876";72
+139;"Casa de Praia Modas";"André Millard";"0221-0644327";72
+140;"Macarena Roupas";"Paul Smith";"(503) 555-6874";73
+141;"Sport Vision";"Cheril Cow";"0372-035188";73
+142;"Boombastica";"Heinz Disco";"0241-039123";73
+143;"Sr. Balão";"Peloto Gomez";"(5) 552-3745";73
+144;"Roupas 007 Trajes Finos";"Mark Stark";"(206) 555-8257";74
+145;"Arte e Alfaiate";"Pierre Robert";"035-640230";74
+146;"Auto Roupas";"Ralf Schumaker";"011-4988260";43
+147;"Lojão LD";"Miiko Heikillä";"(5) 555-2933";43
+148;"Loja do General";"Alice Chain";"(503) 555-7555";59
+149;"Santo Olivier Roupas";"Reijoo Haajanen";"(5) 555-3932";59
+150;"Fashion Outlet";"Boniekk Wallessa";"(5) 552-3745";59
+151;"Sr. Fashion";"Albert von Einstein";"099-0977310";60
+152;"Oak Tree";"Paco el Maco";"(1) 135-5333";37
+153;"Mr. Shoes";"Sancho Panza";"(1) 135-5555";61
+154;"Pussycats Roupas";"Carl Montgomery";"0711-020361";9
+155;"Lojão Novo";"Antonio Esposito";"7675-3425";62
+156;"Made 4Us";"Julie Binoché";"(071) 23 67 22 20";75
+157;"Grande Loja de Roupas";"Bernard de Gaule";"(02) 201 24 67";75
+158;"Magazine Fashion";"Speedy Gonzales";"(5) 555-2933";75
+159;"Peanuts Can ";"Ian Wright";"089-0877310";74
+160;"Vista Isso";"Lars von Holstein";"(21) 555-3412";72
+161;"Manga Rosa";"Pierre Chardin";"(11) 555-7647";76
+162;"Bambinos Roupas";"Greg Thatcher";"0555-09876";76
+163;"Loja Pirilampo";"Lars Saalbach";"(21) 555-4252";77
+164;"Loja da Magali";"Jaques Wilneuve";"(14) 555-8122";77
+165;"Sr e Sra Smith";"Dieter Köln";"(21) 555-0091";78
+166;"Beds are Burning Moda";"Jeanne d´Anjou";"(11) 555-9857";79
+167;"Loja das Roupas";"Don Corleone";"0221-0644327";79
+168;"Cara ou Coroa Modas";"Vitor Baiha";"(514) 555-8054";80
+169;"Comigo Ninguém Pode";"Ross The Boss";"(604) 555-3392";80
+170;"Já Foi Tarde Roupas Novas";"Robert Bolero";"035-640230";79
+171;"Loja Bem Amado";"Al Yankovic";"0372-035188";81
+172;"A Favorita Fashion";"Dieter Rummernige";"981-443655";81
+173;"The Good Wife Clothes";"Philippe de Laval";"61.77.61.10";82
+174;"Barber Shop Mens Clothes";"Louise Davu";"78.32.54.86";82
+175;"Loja Bebê a Bordo";"Klaus Deum";"91.24.45.40";82
+176;"Bad Girls Gone to Rome Roupas";"Vincent Vega";"(514) 555-8054";32
+177;"Força Bruta Roupas Esportivas";"Andrea Pamelsson";"(503) 555-9573";32
+178;"Winter Sports Moda";"Luca Brassi";"40.32.21.21";83
+179;"Lojão do Real";"Marco Van Deum";"26.47.15.10";83
+180;"Baby you Can Try";"John Cleez";"0241-039123";83
+181;"That´s Clothes";"Herman Schlusse";"40.67.88.88";83
+182;"Janaína Carvalho";"Francisca Font Barceló";"(5) 555-3932";63
+183;"Carolina Havanera";"Herbert Bernstorf";"0711-020361";63
+184;"Loja Ricardo Bento";"Leopoldo Samba";"089-0877310";84
+185;"Moda Nova Roupas e Acessórios";"George Essen";"0621-08460";84
+186;"Gatinhas e Gatões Moda";"Anna Bella";"0342-023176";84
+187;"Pegando Estrada Moda Internacional";"Perry Farell";"(208) 555-8097";85
+188;"Vale Tudo Roupas";"Ray Banned";"069-0245984";85
+189;"Lojão do Carvalho";"Preben Elkjaer";"0555-09876";12
+190;"Cachoeira Modas";"André Millard";"0221-0644327";12
+191;"Agora eu Quero Ver Modas";"Paul Smith";"(503) 555-6874";12
+192;"Venus Modas";"Cheril Cow";"0372-035188";12
+193;"Loja dos Amantes";"Heinz Disco";"0241-039123";12
+194;"Amarelo Manga Modas";"Peloto Gomez";"(5) 552-3745";86
+195;"Red Green Blue Roupas e Acessórios";"Mark Stark";"(206) 555-8257";86
+196;"Linda, Leve e Solta Modas";"Pierre Robert";"035-640230";87
+197;"A Roupa Ideal ";"Ralf Schumaker";"011-4988260";87
+198;"Falando em Moda";"Miiko Heikillä";"(5) 555-2933";88
+199;"Esporte Bruto Rouptas";"Alice Chain";"(503) 555-7555";88
+200;"Roupas da Lucia";"Reijoo Haajanen";"(5) 555-3932";88
+201;"Sempre Tem Moda";"Boniekk Wallessa";"(5) 552-3745";29
+202;"Livraria das Letras";"Sofia Mendes";"(31) 9876-5432";8
+203;"Café Aroma e Sabor";"Carlos Oliveira";"(11) 5555-1212";12
+204;"Oficina do Pedal";"Mariana Alves";"(21) 3333-9999";15
+205;"Doce Tentação";"Pedro Souza";"(41) 2222-8888";5
+206;"Mundo Pet";"Ana Clara";"(61) 4444-7777";20
+207;"Jardim Florido";"Lucas Fernandes";"(71) 9191-8282";2
+208;"Tech Solutions";"Gabriela Rocha";"(81) 3030-4040";25
+209;"Sabor da Fazenda";"Mateus Costa";"(92) 9393-7676";1
+210;"Bella Moda";"Laura Martins";"(51) 8585-6363";18
+211;"Canto dos Pássaros";"João Vitor";"(27) 3131-2525";9
+212;"The Book Nook";"Emily Carter";"(647) 555-0101";11
+213;"Maple Leaf Sports";"Michael Brown";"(416) 555-9876";19
+214;"Bistro Laurent";"Sophie Dubois";"(514) 555-2345";28
+215;"Northern Lights Gear";"David Wilson";"(780) 555-6789";16
+216;"Cozy Corner Cafe";"Olivia Tremblay";"(902) 555-3456";4
+217;"Alpen Deli";"Hans Gruber";"0512-098765";22
+218;"Mozart Souvenirs";"Katrina Schmidt";"0662-112233";30
+219;"Vienna Treats";"Stefan Bauer";"01-777-8899";7
+220;"Tirol Woolens";"Ingrid Steiner";"05224-556677";14
+221;"Classic Bikes";"Markus Leitner";"07242-334455";24
+222;"French Chic Boutique";"Isabelle Moreau";"01-23-45-67-89";17
+223;"Patisserie du Coin";"Antoine Leclerc";"04-56-78-90-12";6
+224;"Art et Décoration";"Juliette Bernard";"03-45-67-89-01";29
+225;"Le Petit Fromage";"Pierre Dubois";"02-34-56-78-90";3
+226;"Vin et Saveurs";"Sophie Girard";"05-67-89-01-23";21
+227;"Italian Leather Goods";"Marco Rossi";"051-1234567";32
+228;"Pizzeria Bella Napoli";"Giulia Romano";"081-9876543";10
+229;"Gelateria Artigianale";"Alessandro Conti";"02-55554444";40
+230;"Fashion di Roma";"Francesca Rizzo";"06-22223333";13
+231;"Ceramiche d'Arte";"Giovanni Esposito";"0733-112233";35
+232;"Boutique Chic";"Isabela Santos";"(31) 9999-8888";19
+233;"Sabores da Terra";"Ricardo Oliveira";"(31) 8888-7777";2
+234;"Mundo dos Games";"Fernanda Souza";"(31) 7777-6666";25
+235;"Estilo Pet";"Gustavo Pereira";"(31) 6666-5555";20
+236;"Flores e Cores";"Camila Rocha";"(31) 5555-4444";7
+237;"Oficina Criativa";"Lucas Martins";"(31) 4444-3333";30
+238;"Leitura Prazer";"Mariana Costa";"(31) 3333-2222";11
+239;"Casa e Conforto";"Pedro Almeida";"(31) 2222-1111";14
+240;"Aventura Radical";"Ana Paula Silva";"(31) 1111-0000";16
+241;"Beleza Natural";"Thiago Rodrigues";"(31) 9876-5432";4
+242;"Tech Inovação";"Juliana Ferreira";"(31) 8765-4321";28
+243;"Sabor Caseiro";"Marcelo Gomes";"(31) 7654-3210";1
+244;"Arte Urbana";"Carolina Nunes";"(31) 6543-2109";35
+245;"Bem Estar Zen";"Eduardo Castro";"(31) 5432-1098";9
+246;"Moda Elegante";"Larissa Vieira";"(31) 4321-0987";18
+247;"Mundo Infantil";"Vinicius Barbosa";"(31) 3210-9876";10
+248;"Esporte Total";"Amanda Oliveira";"(31) 2109-8765";21
+249;"Doce Delícia";"Felipe Souza";"(31) 1098-7654";5
+250;"Cantinho do Café";"Patrícia Rocha";"(31) 0987-6543";3
+251;"Ideias Presentes";"Bruno Martins";"(31) 9988-7766";32
+252;"Som e Imagem";"Natália Costa";"(31) 8877-6655";24
+253;"Livros e Cia";"Rafael Almeida";"(31) 7766-5544";12
+254;"Jardim Secreto";"Bianca Silva";"(31) 6655-4433";6
+255;"Acessórios Fashion";"Leonardo Rodrigues";"(31) 5544-3322";13
+256;"Móveis e Decorações";"Isadora Ferreira";"(31) 4433-2211";14
+257;"Ferramentas Gerais";"Daniel Gomes";"(31) 3322-1100";22
+258;"Eletrônicos Já";"Letícia Nunes";"(31) 2211-0099";27
+259;"Roupas e Estilos";"Guilherme Castro";"(31) 1100-9988";17
+260;"Brinquedos Mil";"Sofia Vieira";"(31) 0099-8877";8
+261;"Artesanato Local";"Enzo Barbosa";"(31) 9088-7766";31
+262;"Delícias da Padaria";"Alice Oliveira";"(31) 8077-6655";1
+263;"Ótica Visão";"Pedro Henrique Souza";"(31) 7066-5544";33
+264;"Mundo da Música";"Laura Rocha";"(31) 6055-4433";23
+265;"Construção Forte";"Gabriel Martins";"(31) 5044-3322";29
+266;"Viagens e Turismo";"Manuela Costa";"(31) 4033-2211";34
+267;"Saúde em Dia";"Lucas Almeida";"(31) 3022-1100";15
+268;"Bem-Estar Animal";"Beatriz Silva";"(31) 2011-0099";20
+269;"Cozinha Gourmet";"Matheus Rodrigues";"(31) 1000-9988";6
+270;"Informática Já";"Yasmin Ferreira";"(31) 9111-8877";26
+271;"Presentes Criativos";"João Pedro Gomes";"(31) 8122-7766";32
+272;"Moda Praia";"Maria Eduarda Nunes";"(31) 7133-6655";18
+273;"Acessórios para Carro";"Vinicius Castro";"(31) 6144-5544";22
+274;"Livros Raros";"Ana Clara Vieira";"(31) 5155-4433";12
+275;"Decoração Moderna";"Thiago Barbosa";"(31) 4166-3322";14
+276;"Esportes Aquáticos";"Larissa Oliveira";"(31) 3177-2211";21
+277;"Doces Finos";"Eduardo Souza";"(31) 2188-1100";5
+278;"Café da Manhã Especial";"Carolina Rocha";"(31) 1199-0099";3
+279;"Artes Marciais";"Marcelo Martins";"(31) 0200-9988";16
+280;"Instrumentos Musicais";"Amanda Costa";"(31) 9211-8877";23
+281;"Plantas Ornamentais";"Felipe Almeida";"(31) 8222-7766";7
+282;"Conserto de Eletrônicos";"Patrícia Silva";"(31) 7233-6655";27
+283;"Roupas Infantis";"Bruno Rodrigues";"(31) 6244-5544";10
+284;"Jogos de Tabuleiro";"Natália Ferreira";"(31) 5255-4433";25
+285;"Utensílios Domésticos";"Rafael Gomes";"(31) 4266-3322";14
+286;"Material de Escritório";"Bianca Nunes";"(31) 3277-2211";30
+287;"Serviços de Jardinagem";"Leonardo Castro";"(31) 2288-1100";6
+288;"Alimentos Naturais";"Isadora Vieira";"(31) 1299-0099";2
+289;"Cosméticos Naturais";"Daniel Barbosa";"(31) 0300-9988";4
+290;"Equipamentos de Camping";"Letícia Oliveira";"(31) 9311-8877";19
+291;"Cursos Online";"Guilherme Souza";"(31) 8322-7766";34
+292;"Agência de Viagens";"Sofia Rocha";"(31) 7333-6655";33
+293;"Design de Interiores";"Enzo Martins";"(31) 6344-5544";35
+294;"Fotografia Profissional";"Alice Costa";"(31) 5355-4433";31
+295;"Aulas de Música";"Pedro Henrique Almeida";"(31) 4366-3322";23
+296;"Serviços de Limpeza";"Laura Silva";"(31) 3377-2211";9
+297;"Manutenção de Computadores";"Gabriel Rodrigues";"(31) 2388-1100";28
+298;"Aluguel de Carros";"Manuela Ferreira";"(31) 1399-0099";16
+299;"Seguros em Geral";"Lucas Gomes";"(31) 0400-9988";29
+300;"Consultoria Empresarial";"Beatriz Nunes";"(31) 9411-8877";36
+301;"Desenvolvimento Web";"Matheus Castro";"(31) 8422-7766";26
+302;"Tradução de Documentos";"Yasmin Vieira";"(31) 7433-6655";12
+303;"Organização de Eventos";"João Pedro Barbosa";"(31) 6444-5544";30
+304;"Marketing Digital";"Maria Eduarda Oliveira";"(31) 5455-4433";37
+305;"Assessoria Jurídica";"Vinicius Souza";"(31) 4466-3322";38
+306;"Serviços Contábeis";"Ana Clara Rocha";"(31) 3477-2211";39
+307;"Suporte Técnico";"Thiago Martins";"(31) 2488-1100";27
+308;"Criação de Conteúdo";"Larissa Costa";"(31) 1499-0099";31
+309;"Edição de Vídeos";"Eduardo Almeida";"(31) 0500-9988";24
+310;"Revisão de Textos";"Carolina Silva";"(31) 9511-8877";11
+311;"Catering e Buffet";"Marcelo Rodrigues";"(31) 8522-7766";1
+312;"Decoração de Festas";"Amanda Ferreira";"(31) 7533-6655";7
+313;"Aluguel de Trajes";"Felipe Gomes";"(31) 6544-5544";18
+314;"Música ao Vivo";"Patrícia Nunes";"(31) 5555-4433";23
+315;"Fotografia de Eventos";"Bruno Castro";"(31) 4566-3322";35
+316;"Filmagem de Eventos";"Natália Vieira";"(31) 3577-2211";24
+317;"Bartenders para Eventos";"Rafael Barbosa";"(31) 2588-1100";3
+318;"Segurança para Eventos";"Bianca Oliveira";"(31) 1599-0099";16
+319;"Valet Parking";"Leonardo Souza";"(31) 0600-9988";22
+320;"Locação de Espaços";"Isadora Rocha";"(31) 9611-8877";30
+321;"Organização de Casamentos";"Daniel Martins";"(31) 8622-7766";32
+322;"Planejamento de Aniversários";"Letícia Costa";"(31) 7633-6655";10
+323;"Consultoria de Imagem";"Guilherme Almeida";"(31) 6644-5544";17
+324;"Personal Trainer";"Sofia Silva";"(31) 5655-4433";15
+325;"Aulas de Yoga";"Enzo Rodrigues";"(31) 4666-3322";9
+326;"Massoterapia";"Alice Ferreira";"(31) 3677-2211";4
+327;"Nutricionista";"Pedro Henrique Gomes";"(31) 2688-1100";2
+328;"Psicologia Clínica";"Laura Nunes";"(31) 1699-0099";8
+329;"Acupuntura";"Gabriel Castro";"(31) 0700-9988";5
+330;"Fisioterapia";"Manuela Vieira";"(31) 9711-8877";13
+331;"Pilates";"Lucas Barbosa";"(31) 8722-7766";19
+332;"Coach de Carreira";"Beatriz Oliveira";"(31) 7733-6655";34
+333;"Mentoria Empresarial";"Matheus Souza";"(31) 6744-5544";36
+334;"Desenvolvimento Pessoal";"Yasmin Rocha";"(31) 5755-4433";37
+335;"Treinamento de Liderança";"João Pedro Martins";"(31) 4766-3322";38
+336;"Gestão de Projetos";"Maria Eduarda Costa";"(31) 3777-2211";39
+337;"Análise de Dados";"Vinicius Almeida";"(31) 2788-1100";26
+338;"Inteligência Artificial";"Ana Clara Silva";"(31) 1799-0099";28
+339;"Segurança da Informação";"Thiago Rodrigues";"(31) 0800-9988";29
+340;"Design Gráfico";"Larissa Ferreira";"(31) 9811-8877";31
+341;"Ilustração Digital";"Eduardo Gomes";"(31) 8822-7766";35
+342;"Animação 2D/3D";"Carolina Nunes";"(31) 7833-6655";24
+343;"Modelagem 3D";"Marcelo Castro";"(31) 6844-5544";22
+344;"Desenvolvimento de Games";"Amanda Vieira";"(31) 5855-4433";25
+345;"Realidade Virtual/Aumentada";"Felipe Barbosa";"(31) 4866-3322";20
+346;"Robótica Educacional";"Patrícia Oliveira";"(31) 3877-2211";16
+347;"Impressão 3D";"Bruno Souza";"(31) 2888-1100";30
+348;"Criação de Aplicativos";"Natália Rocha";"(31) 1899-0099";26
+349;"Consultoria de TI";"Rafael Martins";"(31) 0900-9988";27
+350;"Infraestrutura de Redes";"Bianca Costa";"(31) 9911-8877";29
+351;"Suporte Remoto";"Leonardo Almeida";"(31) 8922-7766";28
+352;"Venda de Softwares";"Isadora Silva";"(31) 7933-6655";36
+353;"Manutenção de Servidores";"Daniel Rodrigues";"(31) 6944-5544";27
+354;"Cloud Computing";"Letícia Ferreira";"(31) 5955-4433";37
+355;"Business Intelligence";"Guilherme Gomes";"(31) 4966-3322";38
+356;"Machine Learning";"Sofia Nunes";"(31) 3977-2211";39
+357;"Big Data";"Enzo Castro";"(31) 2988-1100";40
+358;"Internet das Coisas (IoT)";"Alice Vieira";"(31) 1999-0099";41
+359;"Segurança Cibernética";"Pedro Henrique Barbosa";"(31) 0000-9988";42
+360;"Desenvolvimento Mobile";"Laura Oliveira";"(31) 9011-8877";26
+361;"UX/UI Design";"Gabriel Souza";"(31) 8022-7766";31
+362;"Marketing de Conteúdo";"Manuela Rocha";"(31) 7033-6655";37
+363;"SEO Otimização";"Lucas Martins";"(31) 6044-5544";38
+364;"Mídias Sociais";"Beatriz Costa";"(31) 5055-4433";39
+365;"E-mail Marketing";"Matheus Almeida";"(31) 4066-3322";40
+366;"Publicidade Online";"Yasmin Silva";"(31) 3077-2211";41
+367;"Inbound Marketing";"João Pedro Rodrigues";"(31) 2088-1100";42
+368;"Marketing de Influência";"Maria Eduarda Ferreira";"(31) 1099-0099";37
+369;"Análise de Métricas";"Vinicius Gomes";"(31) 0100-9988";38
+370;"CRM Implementação";"Ana Clara Nunes";"(31) 9111-8877";39
+371;"Automação de Marketing";"Thiago Castro";"(31) 8122-7766";40
+372;"Consultoria de Vendas";"Larissa Vieira";"(31) 7133-6655";41
+373;"Treinamento de Vendas";"Eduardo Barbosa";"(31) 6144-5544";42
+374;"E-commerce Desenvolvimento";"Carolina Oliveira";"(31) 5155-4433";26
+375;"Logística e Distribuição";"Marcelo Souza";"(31) 4166-3322";16
+376;"Gestão de Estoque";"Amanda Rocha";"(31) 3177-2211";14
+377;"Controle de Qualidade";"Felipe Martins";"(31) 2188-1100";2
+378;"Planejamento Estratégico";"Patrícia Costa";"(31) 1199-0099";36
+379;"Gestão Financeira";"Bruno Almeida";"(31) 0200-9988";39
+380;"Contabilidade";"Natália Silva";"(31) 9211-8877";40
+381;"Recursos Humanos";"Rafael Rodrigues";"(31) 8222-7766";34
+382;"Departamento Pessoal";"Bianca Ferreira";"(31) 7233-6655";33
+383;"Assessoria de Imprensa";"Leonardo Gomes";"(31) 6244-5544";31
+384;"Relações Públicas";"Isadora Nunes";"(31) 5255-4433";35
+385;"Organização de Feiras";"Daniel Castro";"(31) 4266-3322";30
+386;"Tradução Simultânea";"Letícia Vieira";"(31) 3277-2211";12
+387;"Intercâmbio Cultural";"Guilherme Barbosa";"(31) 2288-1100";33
+388;"Aulas de Idiomas";"Sofia Oliveira";"(31) 1299-0099";11
+389;"Consultoria Educacional";"Enzo Souza";"(31) 0300-9988";10
+390;"Reforço Escolar";"Alice Rocha";"(31) 9311-8877";9
+391;"Cursos Profissionalizantes";"Pedro Henrique Martins";"(31) 8322-7766";8
+392;"Palestras Motivacionais";"Laura Costa";"(31) 7333-6655";34
+393;"Cerimonialista";"Gabriel Almeida";"(31) 6344-5544";32
+394;"DJ para Eventos";"Manuela Silva";"(31) 5355-4433";23
+395;"Aluguel de Limousines";"Lucas Rodrigues";"(31) 4366-3322";18
+396;"Decoração com Balões";"Beatriz Ferreira";"(31) 3377-2211";7
+397;"Show de Mágica";"Matheus Gomes";"(31) 2388-1100";21
+398;"Recreação Infantil";"Yasmin Nunes";"(31) 1399-0099";10
+399;"Aluguel de Som e Luz";"João Pedro Castro";"(31) 0400-9988";24
+400;"Foto Lembrança";"Maria Eduarda Vieira";"(31) 9411-8877";35
+401;"Filmagem Aérea com Drone";"Vinicius Barbosa";"(31) 8422-7766";24
+402;"Consultoria de Imóveis";"Ana Beatriz Souza";"(31) 7432-8901";14
+403;"Reforma e Construção";"Pedro Augusto Rocha";"(31) 8543-9012";29
+404;"Paisagismo e Jardinagem";"Mariana Flores Oliveira";"(31) 9654-0123";7
+405;"Energia Solar";"Lucas Gabriel Pereira";"(31) 6765-1234";27
+406;"Automação Residencial";"Fernanda Costa Lima";"(31) 5876-2345";30
+407;"Segurança Eletrônica";"Gustavo Henrique Martins";"(31) 4987-3456";16
+408;"Mudanças e Fretes";"Camila Alves Ribeiro";"(31) 3098-4567";22
+409;"Limpeza de Estofados";"Thiago Silva Santos";"(31) 2109-5678";9
+410;"Dedetização e Controle de Pragas";"Juliana Rodrigues Fonseca";"(31) 1210-6789";6
+411;"Pintura Residencial e Comercial";"Marcelo Oliveira Souza";"(31) 0321-7890";17
+412;"Pisos e Revestimentos";"Carolina Pereira Lima";"(31) 9012-8901";14
+413;"Marcenaria Sob Medida";"Eduardo Costa Rocha";"(31) 8023-9012";19
+414;"Vidraçaria e Esquadrias";"Larissa Martins Oliveira";"(31) 7034-0123";22
+415;"Serralheria Artística";"Vinicius Alves Pereira";"(31) 6045-1234";24
+416;"Instalação de Ar Condicionado";"Amanda Silva Costa";"(31) 5056-2345";27
+417;"Manutenção de Aquecedores";"Felipe Rodrigues Ribeiro";"(31) 4067-3456";29
+418;"Encanador Urgente";"Patrícia Oliveira Fonseca";"(31) 3078-4567";13
+419;"Eletricista 24 Horas";"Bruno Pereira Souza";"(31) 2089-5678";28
+420;"Conserto de Telhados";"Natália Costa Lima";"(31) 1090-6789";15
+421;"Impermeabilização";"Rafael Martins Rocha";"(31) 0101-7890";16
+422;"Aluguel de Andaimes";"Bianca Alves Oliveira";"(31) 9112-8901";22
+423;"Terraplanagem";"Leonardo Silva Pereira";"(31) 8123-9012";29
+424;"Demolição Controlada";"Isadora Rodrigues Costa";"(31) 7134-0123";29
+425;"Remoção de Entulho";"Daniel Oliveira Ribeiro";"(31) 6145-1234";22
+426;"Serviços de Jardinagem";"Letícia Pereira Fonseca";"(31) 5156-2345";7
+427;"Piscina de Vinil";"Guilherme Costa Souza";"(31) 4167-3456";19
+428;"Sauna e Spa";"Sofia Martins Lima";"(31) 3178-4567";4
+429;"Irrigação Automática";"Enzo Alves Rocha";"(31) 2189-5678";7
+430;"Fontes e Cascatas";"Alice Silva Oliveira";"(31) 1190-6789";7
+431;"Gramados Sintéticos";"Pedro Henrique Rodrigues Pereira";"(31) 0201-7890";7
+432;"Móveis para Área Externa";"Laura Oliveira Costa";"(31) 9212-8901";14
+433;"Churrasqueiras e Fornos";"Gabriel Souza Martins";"(31) 8223-9012";14
+434;"Coberturas e Toldos";"Manuela Rocha Alves";"(31) 7234-0123";14
+435;"Redes de Proteção";"Lucas Gabriel Silva Ribeiro";"(31) 6245-1234";16
+436;"Câmeras de Segurança";"Beatriz Costa Fonseca";"(31) 5256-2345";16
+437;"Alarmes Monitorados";"Matheus Henrique Pereira Souza";"(31) 4267-3456";16
+438;"Portões Eletrônicos";"Yasmin Oliveira Lima";"(31) 3278-4567";30
+439;"Interfones e Vídeo Porteiros";"João Pedro Martins Rocha";"(31) 2289-5678";30
+440;"Fechaduras de Segurança";"Maria Eduarda Alves Oliveira";"(31) 1290-6789";30
+441;"Serviços de Chaveiro";"Vinicius Silva Pereira Costa";"(31) 0301-7890";22
+442;"Instalação de Antenas";"Ana Clara Rodrigues Ribeiro";"(31) 9312-8901";24
+443;"Home Theater";"Thiago Oliveira Fonseca Souza";"(31) 8323-9012";24
+444;"Projetores e Telas";"Larissa Pereira Costa Lima";"(31) 7334-0123";24
+445;"Som Ambiente";"Eduardo Costa Martins Rocha";"(31) 6345-1234";23
+446;"Iluminação Cênica";"Carolina Martins Alves Oliveira";"(31) 5356-2345";23
+447;"Cortinas e Persianas";"Marcelo Silva Pereira Costa";"(31) 4367-3456";14
+448;"Papel de Parede";"Amanda Rodrigues Oliveira Lima";"(31) 3378-4567";14
+449;"Tapetes e Carpetes";"Felipe Oliveira Fonseca Rocha";"(31) 2389-5678";14
+450;"Objetos de Decoração";"Patrícia Pereira Souza Martins";"(31) 1390-6789";14
+451;"Artesanato em Madeira";"Bruno Costa Lima Alves";"(31) 0401-7890";31
+452;"Cerâmica Artística";"Natália Martins Rocha Oliveira";"(31) 9412-8901";35
+453;"Pintura em Tela";"Rafael Alves Pereira Costa";"(31) 8423-9012";35
+454;"Esculturas em Metal";"Bianca Silva Oliveira Lima";"(31) 7434-0123";35
+455;"Joias Artesanais";"Leonardo Rodrigues Pereira Fonseca";"(31) 6445-1234";32
+456;"Bijuterias Criativas";"Isadora Oliveira Costa Souza";"(31) 5456-2345";32
+457;"Bolsas e Acessórios";"Daniel Pereira Martins Lima";"(31) 4467-3456";13
+458;"Sapatos Personalizados";"Letícia Costa Alves Rocha";"(31) 3478-4567";18
+459;"Roupas Sob Medida";"Guilherme Martins Silva Oliveira";"(31) 2489-5678";17
+460;"Cosméticos Naturais";"Sofia Alves Rodrigues Pereira";"(31) 1490-6789";4
+461;"Produtos Veganos";"Enzo Silva Oliveira Fonseca";"(31) 0501-7890";2
+462;"Cestas de Presente";"Alice Rodrigues Pereira Costa";"(31) 9512-8901";32
+463;"Chocolates Artesanais";"Pedro Henrique Oliveira Costa Martins";"(31) 8523-9012";5
+464;"Cervejas Especiais";"Laura Costa Martins Alves Rocha";"(31) 7534-0123";3
+465;"Vinhos Importados";"Gabriel Martins Alves Silva Oliveira";"(31) 6545-1234";21
+466;"Queijos Artesanais";"Manuela Alves Silva Rodrigues Pereira";"(31) 5556-2345";1
+467;"Pães Artesanais";"Lucas Gabriel Silva Rodrigues Oliveira";"(31) 4567-3456";1
+468;"Doces Caseiros";"Beatriz Costa Pereira Fonseca Souza";"(31) 3578-4567";5
+469;"Compotas e Geleias";"Matheus Henrique Martins Costa Lima";"(31) 2589-5678";1
+470;"Temperos e Especiarias";"Yasmin Oliveira Alves Rocha Martins";"(31) 1590-6789";2
+471;"Alimentos Funcionais";"João Pedro Martins Silva Oliveira Alves";"(31) 0601-7890";2
+472;"Suplementos Alimentares";"Maria Eduarda Alves Rodrigues Pereira Costa";"(31) 9612-8901";4
+473;"Produtos Orgânicos";"Vinicius Silva Oliveira Fonseca Souza Rocha";"(31) 8623-9012";2
+474;"Cestas de Café da Manhã";"Ana Clara Rodrigues Pereira Costa Martins Alves";"(31) 7634-0123";3
+475;"Flores para Presente";"Thiago Oliveira Costa Martins Alves Silva";"(31) 6645-1234";7
+476;"Arranjos Florais";"Larissa Pereira Souza Martins Alves Rodrigues";"(31) 5656-2345";7
+477;"Buquês de Flores";"Eduardo Costa Lima Alves Rocha Oliveira";"(31) 4667-3456";7
+478;"Coroas de Flores";"Carolina Martins Rocha Oliveira Pereira Costa";"(31) 3678-4567";7
+479;"Plantas para Interiores";"Marcelo Alves Pereira Costa Martins Silva";"(31) 2689-5678";7
+480;"Plantas para Exteriores";"Amanda Silva Rodrigues Pereira Fonseca Souza";"(31) 1690-6789";7
+481;"Vasos Decorativos";"Felipe Rodrigues Oliveira Costa Martins Alves";"(31) 0701-7890";14
+482;"Adubos e Fertilizantes";"Patrícia Oliveira Fonseca Souza Rocha Martins";"(31) 9712-8901";2
+483;"Ferramentas de Jardinagem";"Bruno Pereira Costa Lima Alves Rocha Oliveira";"(31) 8723-9012";22
+484;"Sementes e Mudas";"Natália Costa Martins Rocha Oliveira Pereira Costa";"(31) 7734-0123";2
+485;"Serviços de Floricultura";"Rafael Martins Alves Silva Rodrigues Pereira";"(31) 6745-1234";7
+486;"Livros de Arte";"Bianca Silva Rodrigues Pereira Fonseca Souza Rocha";"(31) 5756-2345";12
+487;"Livros de Ficção";"Leonardo Rodrigues Oliveira Costa Martins Alves Silva";"(31) 4767-3456";12
+488;"Livros de Não Ficção";"Isadora Oliveira Fonseca Souza Rocha Martins Alves";"(31) 3778-4567";12
+489;"Livros Infantis";"Daniel Pereira Costa Lima Alves Rocha Oliveira";"(31) 2789-5678";10
+490;"Livros Didáticos";"Letícia Costa Martins Rocha Oliveira Pereira Costa";"(31) 1790-6789";10
+491;"Mangás e Comics";"Guilherme Martins Alves Silva Rodrigues Pereira";"(31) 0801-7890";12
+492;"Revistas Especializadas";"Sofia Alves Rodrigues Pereira Fonseca Souza Rocha";"(31) 9812-8901";12
+493;"Jornais Diários";"Enzo Silva Oliveira Fonseca Souza Rocha Martins";"(31) 8823-9012";12
+494;"E-books";"Alice Rodrigues Pereira Costa Martins Alves Silva";"(31) 7834-0123";12
+495;"Audiobooks";"Pedro Henrique Oliveira Costa Martins Alves Rodrigues";"(31) 6845-1234";12
+496;"Papelaria Criativa";"Laura Costa Martins Alves Rocha Oliveira Pereira";"(31) 5856-2345";30
+497;"Material de Desenho";"Gabriel Martins Alves Silva Rodrigues Pereira Fonseca";"(31) 4867-3456";30
+498;"Instrumentos Musicais";"Manuela Alves Silva Rodrigues Pereira Fonseca Souza";"(31) 3878-4567";23
+499;"Acessórios Musicais";"Lucas Gabriel Silva Rodrigues Oliveira Pereira Costa";"(31) 2889-5678";23
+500;"Equipamentos de Áudio";"Beatriz Costa Pereira Fonseca Souza Rocha Martins";"(31) 1890-6789";24
+501;"Equipamentos de Vídeo";"Matheus Henrique Martins Costa Lima Alves Rocha Oliveira";"(31) 0901-7890";24
+502;"Instrumentos de Corda";"Yasmin Oliveira Alves Rocha Martins";"(31) 9901-1234";23
+503;"Instrumentos de Sopro";"João Pedro Martins Silva Oliveira Alves";"(31) 8912-2345";23
+504;"Instrumentos de Percussão";"Maria Eduarda Alves Rodrigues Pereira Costa";"(31) 7923-3456";23
+505;"Teclados e Pianos";"Vinicius Silva Oliveira Fonseca Souza Rocha";"(31) 6934-4567";23
+506;"Partituras Musicais";"Ana Clara Rodrigues Pereira Costa Martins Alves";"(31) 5945-5678";12
+507;"Acessórios para Bateria";"Thiago Oliveira Costa Martins Alves Silva";"(31) 4956-6789";23
+508;"Microfones e Fones";"Larissa Pereira Souza Martins Alves Rodrigues";"(31) 3967-7890";24
+509;"Equipamentos de DJ";"Eduardo Costa Lima Alves Rocha Oliveira";"(31) 2978-8901";24
+510;"Iluminação para Shows";"Carolina Martins Rocha Oliveira Pereira Costa";"(31) 1989-9012";24
+511;"Efeitos Visuais";"Marcelo Alves Pereira Costa Martins Silva";"(31) 0990-0123";24
+512;"Aluguel de Palcos";"Amanda Silva Rodrigues Pereira Fonseca Souza";"(31) 9001-1234";22
+513;"Sonorização de Eventos";"Felipe Rodrigues Oliveira Costa Martins Alves";"(31) 8012-2345";24
+514;"Tradução de Livros";"Patrícia Oliveira Fonseca Souza Rocha Martins";"(31) 7023-3456";12
+515;"Revisão de Textos Acadêmicos";"Bruno Pereira Costa Lima Alves Rocha Oliveira";"(31) 6034-4567";11
+516;"Cursos de Redação";"Natália Costa Martins Rocha Oliveira Pereira Costa";"(31) 5045-5678";11
+517;"Aulas de Literatura";"Rafael Martins Alves Silva Rodrigues Pereira";"(31) 4056-6789";11
+518;"Grupos de Leitura";"Bianca Silva Rodrigues Pereira Fonseca Souza Rocha";"(31) 3067-7890";11
+519;"Editoração de Livros";"Leonardo Rodrigues Oliveira Costa Martins Alves Silva";"(31) 2078-8901";30
+520;"Diagramação de Revistas";"Isadora Oliveira Fonseca Souza Rocha Martins Alves";"(31) 1089-9012";30
+521;"Criação de Capas";"Daniel Pereira Costa Lima Alves Rocha Oliveira";"(31) 0090-0123";31
