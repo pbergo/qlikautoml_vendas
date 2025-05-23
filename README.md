@@ -69,7 +69,7 @@ O modelo do banco de dados está apresentado a seguir.
 Recomenda-se utilizar plataforma Docker Desktop para rodar a base MySQL.
 O Docker Desktop pode ser encontrado em https://www.docker.com/products/docker-desktop/
 
-Para rodar o Docker Desktop é necessário ter Sistema operacional Windows 10/11, 4Gb de memória e WSL-Windows Subsystem for Linux 2.
+Para rodar o Docker Desktop é necessário ter Sistema operacional Windows 10/11, 8Gb de memória e WSL-Windows Subsystem for Linux 2.
 
 Nesse link você encontra instruções de [instalação do Docker Desktop em Windows](https://docs.docker.com/desktop/setup/install/windows-install/), além de detalhamento dos requisitos necessários para instalação.
 
@@ -114,5 +114,7 @@ Após popular a base, os dados estarão disponível no MySQL através das seguin
 
 Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros no seu próprio servidor MySQL versão 8 ou superior.
 
-O dump da base encontra-se no arquivo [vendasods.sql](basedados/vendasods.sql)
+O dump da base encontra-se no arquivo [vendasods.sql](basedados/vendasods.sql) e os arquivos separados estão na pasta [basedados](basedados).
+
+
 
