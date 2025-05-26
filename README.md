@@ -1,4 +1,4 @@
-# Desafio Qlik AutoML
+# Desafio Qlik Predict
 
 ## Resumo
 
@@ -28,7 +28,7 @@ Esse projeto foi feito baseado no licenciamento MIT. Veja detalhes em [LICENSE](
 
 ## Introdução
 
-Esse documento foi criado como desafio para uso do [Qlik AutoML](https://www.qlik.com/us/products/qlik-automl), possibilitando aos interessados entender e aplicar alguns dos recursos da plataforma Qlik Cloud (https://www.qlik.com).
+Esse documento foi criado como desafio para uso do [Qlik Predict](https://www.qlik.com/us/products/qlik-predict), possibilitando aos interessados entender e aplicar alguns dos recursos da plataforma Qlik Cloud (https://www.qlik.com).
 
 Todos os dados aqui apresentados são fictícios e qualquer relação com a realidade é mera coincidência.
 
@@ -56,7 +56,12 @@ A equipe da COM.ROUPAS disponibilizou a base de dados de vendas para suas análi
 ### O que se espera
 
 - Saber quais dados impactam no cancelamento de pedidos.
-- Prover um método (API ou outro) que possiblite a previsão de cancelamento em tempo real para cada novo pedido.
+- Montar um experimento usando o Qlik Predict
+    - Extrair, tratar e carregar os dados para usar no experimento do Qlik Predict
+    - Obter uma lista de no máximo 5 variáveis relevantes para uma predição
+    - Com assertividade superior a 0.9.
+- Implementar um modelo de predição usando o Qlik Predict
+    - Prover um método (API ou outro) que possiblite a previsão de cancelamento em tempo real para cada novo pedido.
 
 ### Base de dados
 
@@ -110,11 +115,10 @@ Após popular a base, os dados estarão disponível no MySQL através das seguin
 - SSL: Preferred ou Enabled
 
 
+
 ##### MySQL Database Server
 
-Caso não tenha desejo de utilizar o Docker para o banco de dados, você pode importar os registros no seu próprio servidor MySQL versão 8 ou superior.
+Caso não queira utilizar o Docker para o banco de dados, você pode importar os registros no seu próprio servidor MySQL versão 8 ou superior.
 
 O dump da base encontra-se no arquivo [vendasods.sql](basedados/vendasods.sql) e os arquivos separados estão na pasta [basedados](basedados).
-
-
 
